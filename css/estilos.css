@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Roboto:wght@400;500&display=swap');
+
+body { 
+
+    background-color: #FFFFFF;
+    font-family: "Roboto", sans-serif;
+    color: #615476;
+background-color:#FCE8F2;
+}
+
+ul,
+h2,
+h1 
+h3 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 120%;
+    text-transform: capitalize;
+    margin-left: 18.5%;
+    margin-right: 18.5%;
+}
+
+.misubrayado{
+    text-decoration:wavy underline;
+}
+
+h1{
+    
+    text-align: center;
+    color: #62537A;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    text-transform:uppercase;
+
+}
+h2{
+    
+    text-align: center;
+    color: #D9715D;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    
+    
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h4{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#vinculos {
+    color: #615476;
+} 
+
+#vinculos:hover{
+text-transform: uppercase;
+}
+
+a:hover{
+    text-decoration: wavy underline;
+    
+}
+
+
+a
+{
+    text-decoration: none;
+    color: #615476;
+    font-weight: 400;
+    
+}
+a
+{
+    text-decoration: none;
+    color: #615476;
+    font-weight: 400;
+    font-size: 110%;
+}
+
+a{
+    text-decoration: none;
+    color: #615476;
+    font-weight: 400;  
+    font-size: 90%;
+}
+
+a:active{
+    background-color: #E9BBD8;
+}
+
+p{
+    text-align: justify;
+    font-size: 15px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+img{
+    border-radius: 150%;
+    width: 22%;
+    display: block;
+    margin:auto ;
+}
+
+
